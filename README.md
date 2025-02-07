@@ -1,6 +1,6 @@
 
 YahyaHackathon - E-Commerce Platform
-Project by Sheikh Yahya Khan
+Project by Zeeshan Shah
 
 This project is a modern, responsive e-commerce web application built using Next.js, React.js, and Tailwind CSS. The goal of this project is to provide a seamless shopping experience with features such as product details, cart functionality, and a user-friendly interface.
 
